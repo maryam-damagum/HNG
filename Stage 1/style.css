@@ -1,0 +1,232 @@
+
+@media screen and (max-width:768px){
+
+    /*-------main------- */
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E5E5E5;
+    background-image: url(/img/concrete-1646788_1280.jpg);
+    width: fit-content;
+    font-family:  Roboto;
+}
+/*-------Main End------- */
+
+
+/*-------Navigation Starts------- */
+
+nav{
+    display: flex;
+    height: 100px;
+}
+
+.logo{
+    padding: 10px;
+}
+
+.logo img{
+    height: 50px;
+    width:100px;
+}
+/*-------Navigation Ends------- */
+
+
+/*-------Landing page Starts------- */
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.profile img{
+    height: 300px;
+    border-radius: 20% 2%;
+    background-color: #FF6C01;
+}
+
+.info h1{
+    text-align: center;   
+    font-size: 24px;
+    color: #FF6C01;
+}
+
+.text h2{
+
+    text-align: center;   
+    color: #0dcaf0;
+}
+
+p{
+   text-align: center; 
+   color: black;
+   font-weight: 400;
+}
+
+a{ 
+    display: inline;
+   text-align: center; 
+   color: black;
+   font-weight: 400;
+}
+
+
+button{
+    border: none;
+    background-color: #0dcaf0;
+    height: 15%;
+}
+
+button a{
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: whitesmoke;
+}
+ 
+button:hover{
+    font-size: 20px;
+    background-color: #FF6C01;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px;
+}
+ 
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+}
+
+
+  /*-------Landing page Ends------- */
+
+}
+
+@media screen and (max-width:1440px){
+
+    /*-------main------- */
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E5E5E5;
+    background-image: url(/img/concrete-1646788_1280.jpg);
+    width: fit-content;
+    font-family:  Roboto;
+}
+/*-------Main End------- */
+
+
+/*-------Navigation Starts------- */
+
+nav{
+    display: flex;
+    height: 100px;
+}
+
+.logo{
+    padding: 10px;
+}
+
+.logo img{
+    height: 50px;
+    width:100px;
+}
+/*-------Navigation Ends------- */
+
+
+/*-------Landing page Starts------- */
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.profile img{
+    height: 300px;
+    border-radius: 20% 2%;
+    background-color: #FF6C01;
+}
+
+.info h1{
+    text-align: center;   
+    font-size: 24px;
+    color: #FF6C01;
+}
+
+.text h2{
+
+    text-align: center;   
+    color: #0dcaf0;
+}
+
+p{
+   text-align: center; 
+   color: black;
+   font-weight: 400;
+}
+
+a{ 
+    display: inline;
+   text-align: center; 
+   color: black;
+   font-weight: 400;
+}
+
+
+button{
+    border: none;
+    background-color: #0dcaf0;
+    height: 15%;
+}
+
+button a{
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: whitesmoke;
+}
+ 
+button:hover{
+    font-size: 20px;
+    background-color: #FF6C01;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px;
+}
+ 
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+}
+
+
+  /*-------Landing page Ends------- */
+
+}
